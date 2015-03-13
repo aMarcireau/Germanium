@@ -1,0 +1,5 @@
+# Node package
+.log
+node-modules
+test
+!test/test.js
